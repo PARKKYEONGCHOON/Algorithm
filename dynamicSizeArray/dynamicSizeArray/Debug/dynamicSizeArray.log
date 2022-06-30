@@ -1,0 +1,5 @@
+﻿  dynamicSizeArray.cpp
+c:\users\tlqkf\desktop\c++\algorism\dynamicsizearray\dynamicsizearray\dynamicsizearray.cpp(84): error C2676: 이항 '<<': 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+  c:\users\tlqkf\desktop\c++\algorism\dynamicsizearray\dynamicsizearray\dynamicsizearray.cpp(90): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dynamic_array<T>'에 대한 참조를 확인하세요.
+c:\users\tlqkf\desktop\c++\algorism\dynamicsizearray\dynamicsizearray\dynamicsizearray.cpp(87): error C2039: 'str': 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'의 멤버가 아닙니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iosfwd(622): note: 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>' 선언을 참조하십시오.
